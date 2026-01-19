@@ -1,7 +1,3 @@
-Here is a **clean, professional `README.md`** you can copy-paste directly into your repository.
-It explains the app, tech stack, features, setup, and screenshots section.
-
----
 
 # 🐾 Pokémon Catcher (Flutter Pokédex)
 
@@ -99,11 +95,11 @@ flutter run -d chrome
 ```
 
 ---
-▶️ Run the App
+### ▶️ Run the App
 🌐 Web
 flutter run -d chrome
 
-🤖 Android Emulator (Recommended)
+### 🤖 Android Emulator (Recommended)
 
 Use Pixel 5 – API 33 – Google APIs (x86_64)
 
